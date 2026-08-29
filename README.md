@@ -1,8 +1,8 @@
-# 孙哥 Skill (`sunge-narrative-writing`)
+# 孙割写作 Skill (`sunge-narrative-writing`)
 
 一个面向 Codex 的高级中文叙事写作 Skill。它把冲突设计、双尺度钩子、场景证据、物象回环、伏笔回收、重复与破例、时间跳切、对白潜台词、限知视角、节奏控制和余波结尾，整理成可执行、可检查的写作流程。
 
-“孙哥 Skill”是便于人类记忆的名称；目录使用可发现的 ASCII 名称。项目灵感来自对公开文本《我的女友景甜》叙事工艺的分析，但不复制其独特句式、人物关系、情节或物象组合。
+“孙割写作 Skill”是便于人类记忆的名称，其中“割”取“割韭菜”的“割”；目录继续使用可发现的 ASCII 名称。项目灵感来自对公开文本《我的女友景甜》叙事工艺的分析，但不复制其独特句式、人物关系、情节或物象组合。
 
 > [!IMPORTANT]
 > 本项目非官方、无授权关联，不代表孙宇晨、景甜或任何同题项目。它不是任何在世作者的口吻模仿器，也不把文本中的私人陈述当作事实。
@@ -17,7 +17,14 @@ AI 已经很会生成顺滑句子，但长文真正难的是选择：哪一幕�
 
 ## 安装
 
-把仓库放在任意稳定目录，然后链接到 Codex 的 skills 目录：
+直接安装到默认 Codex skills 目录：
+
+```bash
+git clone https://github.com/pgaicoding/sunge-narrative-writing.git \
+  ~/.codex/skills/sunge-narrative-writing
+```
+
+或者把仓库放在任意稳定目录，然后创建符号链接：
 
 ```bash
 ln -s /absolute/path/to/sunge-narrative-writing \

@@ -7,6 +7,8 @@ description: Design, draft, or revise original high-tension Chinese narratives u
 
 Build a readable Chinese narrative with a clear truth contract and an original expression system. Extract mechanisms from references; never reproduce their distinctive wording, plot, character relations, object combinations, or authorial persona.
 
+The human-facing name is `孙割写作 Skill` (`孙割 Skill` for short); `割` refers to `割韭菜`, not `哥哥`. The stable ASCII skill name remains `sunge-narrative-writing`.
+
 This is an independent, unofficial writing method. It is not a “winner narrative” or personality school, and it is not affiliated with or endorsed by any person or similarly themed project.
 
 ## Start With Two Decisions
