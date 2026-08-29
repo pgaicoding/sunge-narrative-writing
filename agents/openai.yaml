@@ -1,0 +1,7 @@
+interface:
+  display_name: "孙哥 Skill"
+  short_description: "把高张力中文叙事机制转化为原创、可控、可复用的写作流程"
+  default_prompt: "Use $sunge-narrative-writing to turn my material into an original Chinese narrative with a clear fact boundary."
+
+policy:
+  allow_implicit_invocation: true
